@@ -24,7 +24,7 @@ public class LinkedList {
         displayList(head); // 8, 9, 42
     }
 
-    //while (trav.next != null) will go till last node but will not run the last node through loop logic.
+    // while (trav.next != null) will go till last node but will not run the last node through loop logic.
     // while (trav != null) will go through all nodes and apply loop logic to all nodes.
 
     // returns the head of the list
